@@ -1,2 +1,2 @@
 # Diamond Clarity Using GGplot
-Using R to plot a smooth scatterplot for price carat against price of diamonds
+Using R to plot a smooth scatterplot for carat against price of diamonds
